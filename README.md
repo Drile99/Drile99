@@ -50,7 +50,7 @@ This is my GitHub profile! Below you can see my inforamtions and some of my proj
 <img src="https://img.icons8.com/color/36/000000/microsoft-sql-server.png" align="left" alt="Microsoft SQL Server" title="Microsoft SQL Server"/>
 
 <!--WordPress-->
-<img src="https://img.icons8.com/fluency/48/000000/wordpress.png" align="left" alt="WordPress" title="WordPress"/>
+<img src="https://img.icons8.com/fluency/36/000000/wordpress.png" align="left" alt="WordPress" title="WordPress"/>
 
 <!--Git-->
 <img src="https://img.icons8.com/color/36/000000/git.png" align="left" alt="Git" title="Git"/>
