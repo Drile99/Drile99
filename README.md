@@ -88,5 +88,12 @@ This is my GitHub profile! Below you can see my inforamtions and some of my proj
 <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="closed_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d5.png">📝</g-emoji>My certifications
 </h3>
 
+<ul>
+  <li><a href="https://www.udemy.com/certificate/UC-4e21e081-ed25-49d4-aa24-0eb58eca7814/" rel="nofollow">Affiliate website and Wordpress Guide - Udemy</a></li>
+  <li><a href="https://drive.google.com/file/d/1tUbLcOOsI_wv0wT8Z9Zp8pF2TZd5xy8O/view?usp=sharing" rel="nofollow">Deep Neural Network in Fraud Detection - Comtrade Group </a></li>
+  <li><a href="https://drive.google.com/file/d/1NOiL4dcXfISC_W9rm1z_cKE9riMMi0Hc/view?usp=sharing" rel="nofollow">Business English Course Completition - Savez studenata Fakulteta organizacionih nauka</a></li>
+  <li><a href="https://drive.google.com/file/d/1trKqa5yNwCrLW8Pp9Zzum5TFddw8-JVz/view?usp=sharing" rel="nofollow">German Course Completiton - Savez studenata Fakulteta organizacionih nauka</a></li>
+</ul>
+
 
 
