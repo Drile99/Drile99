@@ -63,7 +63,7 @@ This is my GitHub profile! Below you can see my inforamtions and some of my proj
 
 <img src="https://img.icons8.com/color/36/000000/serbia.png" align="left" alt="Serbian" title="Serbian"/>
 <img src="https://img.icons8.com/color/36/000000/great-britain.png" align="left" alt="English" title="English"/>
-<img src="https://img.icons8.com/color/48/000000/spain2-circular.png"/> align="left" alt="Spanish" title="Spanish"/>
+<img src="https://img.icons8.com/color/48/000000/spain2-circular.png" align="left" alt="Spanish" title="Spanish"/>
 <img src="https://img.icons8.com/color/36/000000/germany.png" align="left" alt="Germany" title="Germany"/>
 <br>
 
