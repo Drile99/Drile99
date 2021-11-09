@@ -1,7 +1,7 @@
 ### Welcome 👋
 
 
-This is my GitHub profile! Below you can see my inforamtions and some of my projects:
+This is my GitHub profile! Below you can see my informations and some of my projects:
 
 - 🔭 I’m currently learning a lot of things, mostly JavaScript, Angular and JQuery
 - 👀 Fields of interest: Digital marketing, Software development, Android & iOS development
