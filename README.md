@@ -23,6 +23,9 @@ This is my GitHub profile! Below you can see my inforamtions and some of my proj
 <!--C#-->
 <img src="https://img.icons8.com/color/36/000000/c-sharp-logo.png" align="left" alt="C Sharp" title="C sharp"/>
 
+<!--Angular-->
+<img src="https://img.icons8.com/color/36/000000/angularjs.png" align="left" alt="Angular" title="Angular"/>
+
 <!--C-->
 <img src="https://img.icons8.com/color/36/000000/c-programming.png" align="left" alt="C" title="C"/>
 
